@@ -40,7 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](![walkthroughPrework1](https://user-images.githubusercontent.com/83620487/159148869-f40e4750-8a9a-4ae7-a6d3-a7becea2d338.gif)
-![](gif2-link-here)
+![](![walkthroughPrework1 part2](https://user-images.githubusercontent.com/83620487/159184147-8ade97fe-512b-4a94-8999-7fc90ee143d8.gif)
+
 ![](gif3-link-here)
 ![](gif4-link-here)
 
